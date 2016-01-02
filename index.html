@@ -1,7 +1,27 @@
 <!DOCTYPE html>
 <html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
+  <head>
+    <title> Vi's Webpage
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=no">
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="js\jquery.caret.min.js"></script>
+    <script src="js\jquery.atwho.min.js"></script>
+  </head>
+  <body>
+  <h1>Hello World</h1>
+  <p>I'm hosted with GitHub Pages.</p>
+  <div contenteditable="true" id="editor">
+
+  </div>
+  <script>
+   $(document).onLoad(function(){
+     $('#editor').atwho({
+       at: "",
+       data:['Peter','Tom','Annie']
+     });
+   })
+  </script>
+  </body>
 </html>
