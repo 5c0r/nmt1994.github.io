@@ -18,9 +18,14 @@
   <script>
    $(document).ready(function(){
      $('#editor').atwho({
+       at: "&nbsp",
+       data:['Peter','Tom','Annie']
+     }).atwho({
        at: "@",
-       data:['Peter','Tom','Annie'],
-       startWithSpace: true
+       data:['Tri','Test','Plugin']
+     }).atwho({
+       at: "&zwnj",
+       data:['Tri2','Test2']
      });
    });
   </script>
