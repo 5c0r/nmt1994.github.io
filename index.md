@@ -9,13 +9,7 @@ Hello friends who spent your precious time to visit this website !
 
 <img width="100%" src="{{ site.url}}/assets/media/welcome.jpg" />
 
-My name is Tri Nguyen and I'm currently a 2nd/3rd year student in Metropolia, which is located in **Espoo, Finland**.
 
-Currently my major is Software Engineering, but I have a lot of interests of learning many IT-related stuff :
-
-- Virtualization
-- Internet of Things ( IoT )
-- Computer hardware, Software and stuffs
 
 This page is still in under construction and I still have not get any idea on what to write / discuss here :(
 Currently there are many topics that I would like to discuss , and they are on priority from top to bottom :
@@ -27,11 +21,15 @@ Currently there are many topics that I would like to discuss , and they are on p
 - PHP ( Somehow this is not my expertise )
 2. Front-end Development
 - CSS Practices
-3. Which books are good to read if you are a person interests in:
+3. Others IT-Related stuffs which I found interesting
+- Virtualization
+- Internet of Things ( IoT )
+- Computer hardware, Software and stuffs
+4. Which books are good to read if you are a person interests in:
 - IT
 - Life & Experience
 - Biography
-4. My own life experience when being a student/intern/worker
+5. My own life experience when being a student/intern/worker
 
 
 # My blogspots are here
